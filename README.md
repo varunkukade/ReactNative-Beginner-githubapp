@@ -12,7 +12,13 @@ OR
 This way you will able to watch this app on your Smartphone live.
 
 
+
 # ScreenShots of the app
+
+Features in the app:
+1) Search for the user.
+2) Use the GitHub api to fetch the user bio, avatar, no of followers and followings, no of public gists and repos, the last updated time.
+3) Display the list of followers and followings the user has.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66090579/116732497-bcf50300-a99f-11eb-8ad8-4572c0162039.jpeg" width="250" height="500" title="hover text">
